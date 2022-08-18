@@ -36,3 +36,14 @@
 2022-08-18T12:22:54.254  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
 2022-08-18T12:23:17.158  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
 2022-08-18T12:23:31.911  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T22:43:27.390  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T22:44:07.710  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T22:44:25.412  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T22:44:36.615  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T22:48:12.695  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T22:49:10.362  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T22:49:59.732  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T22:50:20.478  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.SendMessage => 200
+2022-08-18T22:50:29.198  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T22:50:51.088  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T22:55:56.594  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200

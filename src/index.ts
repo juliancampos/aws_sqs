@@ -1,5 +1,7 @@
-import { listQueues, receiveMessage, sendMessage } from './sqs';
+import { start } from './methods';
 
-// listQueues();
-// sendMessage('Primeira mensagem');
-receiveMessage();
+process.on('SIGTERM', () => {
+  process.exit(0);
+});
+
+start();
