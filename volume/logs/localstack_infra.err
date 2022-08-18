@@ -1,0 +1,38 @@
+2022-08-18T11:49:36.120  WARN --- [  Thread-108] hypercorn.error            : ASGI Framework Lifespan error, continuing without Lifespan support
+2022-08-18T11:49:36.120  WARN --- [  Thread-108] hypercorn.error            : ASGI Framework Lifespan error, continuing without Lifespan support
+2022-08-18T11:49:36.125  INFO --- [  Thread-108] hypercorn.error            : Running on https://0.0.0.0:4566 (CTRL + C to quit)
+2022-08-18T11:49:36.125  INFO --- [  Thread-108] hypercorn.error            : Running on https://0.0.0.0:4566 (CTRL + C to quit)
+2022-08-18T11:49:36.310  INFO --- [  MainThread] localstack.utils.bootstrap : Execution of "start_runtime_components" took 688.06ms
+2022-08-18T11:55:08.103  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T11:55:42.874  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.CreateQueue => 200
+2022-08-18T11:55:49.888  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T11:56:12.965  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T11:56:29.436  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T11:57:29.097  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T11:58:05.571  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T11:58:05.571  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.CreateQueue => 200
+2022-08-18T11:58:25.571  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T11:58:38.293  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T11:59:16.823  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T11:59:22.275  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:03:04.362  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:04:20.145  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:06:17.906  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:08:01.937  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:10:50.569  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:10:55.958  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:12:01.734  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:12:07.255  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:12:21.889  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:12:21.892  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.SendMessage => 200
+2022-08-18T12:14:08.599  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:14:08.599  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.SendMessage => 200
+2022-08-18T12:21:35.371  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:21:35.371  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.SendMessage => 200
+2022-08-18T12:21:42.303  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ListQueues => 200
+2022-08-18T12:21:42.303  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.SendMessage => 200
+2022-08-18T12:22:00.252  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T12:22:16.263  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T12:22:54.254  INFO --- [   asgi_gw_0] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T12:23:17.158  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
+2022-08-18T12:23:31.911  INFO --- [   asgi_gw_1] localstack.request.aws     : AWS sqs.ReceiveMessage => 200
